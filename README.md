@@ -43,6 +43,9 @@
 <div align="center">
 
 ![Snake animation](https://github.com/DevGabrielSilva-ops/DevGabrielSilva-ops/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://media.giphy.com/media/3o7TKsQ8UQHnG1VYQg/giphy.gif" width="400">
+</p>
 
 </div>
 
