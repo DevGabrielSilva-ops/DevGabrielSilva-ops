@@ -52,11 +52,11 @@
 
 <p align="left">
 
-<a href="LINKEDIN">
+<a href="[LINKEDIN](https://www.linkedin.com/in/gabriel-silva-evaristo-3369a22b4/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="INSTAGRAM">
+<a href="[INSTAGRAM](https://www.instagram.com/silva___dev?igsh=NjQ1cTM2YnAxNWpy&utm_source=qr)">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
