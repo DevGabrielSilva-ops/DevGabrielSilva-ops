@@ -42,7 +42,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/DevGabrielSilva-ops/DevGabrielSilva-ops/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DevGabrielSilva-ops/DevGabrielSilva-ops/.github/workflows/snake.yml)
 
 </div>
 
