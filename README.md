@@ -2,8 +2,8 @@
 
 # 👨‍💻 Gabriel Silva Evaristo
 
-💻 Desenvolvedor Front-End  
-🚀 Estudando JavaScript, React e React Native  
+💻 Desenvolvedor Full Stack  
+🚀 Estudando JavaScript, React, Node.js e Mysql  
 📚 Sempre buscando aprender novas tecnologias  
 
 ---
